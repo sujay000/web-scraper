@@ -71,4 +71,4 @@ app.post("/scrape",(req,res)=>{
 
 
 
-app.listen(3000,()=>{console.log("port is running")})
+app.listen(process.env.PORT || 3000,()=>{console.log("port is running")})
