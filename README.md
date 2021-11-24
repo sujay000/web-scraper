@@ -9,3 +9,7 @@ Create a simple web scraper, It should take the URL and scrape the useful data f
 
 Go to the site https://web-scraper-sujay000.herokuapp.com/ it is cloud deployed on herokuapp
 
+
+## Running Tests
+
+Just paste the website Url you want to scrape in the input box. ( for example https://www.theguardian.com/uk )
