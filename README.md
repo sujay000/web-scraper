@@ -10,10 +10,6 @@ Create a simple web scraper, It should take the URL and scrape the useful data f
 Go to the site https://web-scraper-sujay000.herokuapp.com/ it is cloud deployed on herokuapp
 
 
-## Running Tests
-
-Just paste the website Url you want to scrape in the input box. ( for example https://www.theguardian.com/uk )
-
 
 ## Project Setup
 
@@ -22,6 +18,10 @@ Just paste the website Url you want to scrape in the input box. ( for example ht
 3. Run `npm install`
 4. Run `npm start` to start the project.
 
+
+## Running Tests
+
+Just paste the website Url you want to scrape in the input box. ( for example https://www.theguardian.com/uk )
 
 ## Reference links used
 * https://www.youtube.com/watch?v=-3lqUHeZs_0
