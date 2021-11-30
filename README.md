@@ -23,6 +23,13 @@ Go to the site https://web-scraper-sujay000.herokuapp.com/ it is cloud deployed 
 
 Just paste the website Url you want to scrape in the input box. ( for example https://www.theguardian.com/uk )
 
+<img src="https://www.linkpicture.com/q/Capture_260.png" type="image">
+
+
+You will see the data scraped now and click on the button on the top left corner to scrape another site
+
+<img src="https://www.linkpicture.com/q/Capture2_27.png" >
+
 ## Reference links used
 * https://www.youtube.com/watch?v=-3lqUHeZs_0
 * https://www.youtube.com/watch?v=1wXYg8Eslnc&feature=youtu.be
