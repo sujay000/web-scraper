@@ -27,3 +27,15 @@ Just paste the website Url you want to scrape in the input box. ( for example ht
 * https://www.youtube.com/watch?v=-3lqUHeZs_0
 * https://www.youtube.com/watch?v=1wXYg8Eslnc&feature=youtu.be
 
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+|  Color 1 | ![#0d6efd](https://via.placeholder.com/10/0d6efd?text=+) #0d6efd |
+|  Color 2 | ![#F0F0F0](https://via.placeholder.com/10/F0F0F0?text=+) #F0F0F0 |
+|  Color 3 | ![#212529](https://via.placeholder.com/10/212529?text=+) #212529 |
+
+
+
+
