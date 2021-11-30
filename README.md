@@ -21,3 +21,9 @@ Just paste the website Url you want to scrape in the input box. ( for example ht
 2. Make sure node and npm are installed in your machine
 3. Run `npm install`
 4. Run `npm start` to start the project.
+
+
+## Reference links used
+* https://www.youtube.com/watch?v=-3lqUHeZs_0
+* https://www.youtube.com/watch?v=1wXYg8Eslnc&feature=youtu.be
+
