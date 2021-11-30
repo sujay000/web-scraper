@@ -13,3 +13,11 @@ Go to the site https://web-scraper-sujay000.herokuapp.com/ it is cloud deployed 
 ## Running Tests
 
 Just paste the website Url you want to scrape in the input box. ( for example https://www.theguardian.com/uk )
+
+
+## Project Setup
+
+1. Download/clone the repository
+2. Make sure node and npm are installed in your machine
+3. Run `npm install`
+4. Run `npm start` to start the project.
