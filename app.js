@@ -16,7 +16,9 @@ app.post("/redirect",(req,res)=>{
     res.redirect("/");
 })
 
-app.post("/scrape",(req,res)=>{``
+
+app.post("/scrape",(req,res)=>{
+
     
     const webUrl = req.body.webUrl;
     
