@@ -34,9 +34,9 @@ You will see the data scraped now and click on the button on the top left corner
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|  Color 1 | ![#0d6efd](https://via.placeholder.com/10/0d6efd?text=+) #0d6efd |
-|  Color 2 | ![#F0F0F0](https://via.placeholder.com/10/F0F0F0?text=+) #F0F0F0 |
-|  Color 3 | ![#212529](https://via.placeholder.com/10/212529?text=+) #212529 |
+|  Color 1 | ![#0d6efd](https://via.placeholder.com/15/0d6efd/0d6efd.png) `#0d6efd` |
+|  Color 2 | ![#F0F0F0](https://via.placeholder.com/15/F0F0F0/F0F0F0.png) `#F0F0F0` |
+|  Color 3 | ![#212529](https://via.placeholder.com/15/212529/212529.png) `#212529` |
 
 
 
