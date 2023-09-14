@@ -8,7 +8,7 @@ Description: <br/>
 
 ## Deployment
 
-Go to the site https://web-scraper-sujay000.herokuapp.com/ it is cloud deployed on herokuapp
+Go to the site https://web-scraper-sujay.onrender.com it is cloud deployed on herokuapp
 
 
 
